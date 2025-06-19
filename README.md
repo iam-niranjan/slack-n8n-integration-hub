@@ -17,7 +17,7 @@ A Slack Bot Socket App that integrates with N8N for automation workflows. This b
 
 Watch the Slack `/automation` command in action:
 
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Demo Video](https://img.youtube.com/vi/311ZDuqNpxI/maxresdefault.jpg)](https://www.youtube.com/watch?v=311ZDuqNpxI)
 
 *The demo shows how users can interact with the bot using the `/automation` slash command, submit data, and use approval/rejection buttons.*
 
