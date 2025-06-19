@@ -1,0 +1,28 @@
+{
+  "name": "slack-bot-n8n-integration-hub",
+  "version": "1.0.0",
+  "description": "Slack Bot N8N Integration Hub - A comprehensive Slack Bot Socket App that integrates with n8n for automation workflows",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test-webhooks": "node test-webhook.js"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "n8n",
+    "automation",
+    "webhook"
+  ],
+  "author": "securityinsights.io",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.17.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
