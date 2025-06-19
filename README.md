@@ -13,6 +13,17 @@ A Slack Bot Socket App that integrates with N8N for automation workflows. This b
 - 🔐 **Basic Authentication**: Optional HTTP Basic Auth for secure webhook communication
 - 🛡️ **Error Handling**: Robust error handling and user feedback
 
+## 🎥 Demo Video
+
+Watch the Slack `/automation` command in action:
+
+<video width="100%" controls>
+  <source src="./slack-automation-command-demo.mov" type="video/mp4">
+  Your browser does not support the video tag. <a href="./slack-automation-command-demo.mov">Download the demo video</a>
+</video>
+
+*The demo shows how users can interact with the bot using the `/automation` slash command, submit data, and use approval/rejection buttons.*
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
