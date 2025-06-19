@@ -59,7 +59,6 @@ slack-bot-n8n-integration/
 ├── README.md                  # Project documentation
 ├── CONTRIBUTING.md            # This file
 ├── test-webhook.js            # Webhook testing utility
-└── n8n-workflow-examples.json # Example N8N workflows
 ```
 
 ### Key Components
